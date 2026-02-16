@@ -1,0 +1,1 @@
+LGBMRegressor(learning_rate=0.12, n_estimators=925)
